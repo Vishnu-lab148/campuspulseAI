@@ -1,0 +1,8 @@
+streamlit>=1.38
+pandas>=2.2
+plotly>=5.22
+ibm_db>=3.2
+python-dotenv>=1.0
+langchain-core>=0.3
+langchain-openai>=0.2
+reportlab>=4.2
